@@ -6,6 +6,12 @@ body{
     background-color: rgb(59, 132, 196);
 
 }
+img.lado {
+    float: right;
+}
+h2{
+    font-size: 20px;
+}
 main {
     background-color: aliceblue;
     width: 500px;
@@ -13,6 +19,7 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.712);
 }
-header {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif rgb(9, 1, 56);
+h1{
+    color: rgb(0, 0, 92);
+    font-size: 25px;
 }
